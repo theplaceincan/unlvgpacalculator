@@ -6,29 +6,9 @@ you can save your courses, calculate GPAs offline, and
 easily edit your courses in a simple text file.
 */
 
-/** To use this program, do the following:
- * 1. Make a "grades.csv" file within the same 
- *    directory as this program.
- * 2. Fill in the grades.csv file like this format example:
- *  This is the format:
- *    -(FA/SM/SP),(2-digit YEAR, ie. 24 for 2024)
- *    (CLASS 100),(CREDITS),(GRADE)
- * 
- *  Format example:
- *    -FA,24
- *    CS 128,3,A
- *    ENG 232,3,A
- *  
- * 3. To run the program:
- *  a. download a C++ compiler (ignore this if you have one)
- *  b. download a code editor (VSCode is beginner-friendly) (ignore this if you have one)
- *  c. open the code editor, and go to the folder where this program file is at
- *  d. make a grades.csv file and fill it out with your classes
- *  e. compile this program with: g++ unlvgpacalculator.cpp -o main
- *  f. run this program with: ./main
- * 
- * Message me if you have any questions!
- */
+// If you need help:
+// 1. Please see this website for steps on using the program: https://github.com/theplaceincan/unlvgpacalculator
+// 2. Message me! :)
 
 #include <iostream>
 #include <fstream>
