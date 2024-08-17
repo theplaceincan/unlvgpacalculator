@@ -45,6 +45,6 @@ You're free to download this and start calculating your GPA!
 
 Formula: GPA = totalGradePoints / totalUnitsTaken
 
-_(FYI Units and Credits mean the same)_
+_(FYI Units and Credits mean the same thing)_
 
    
