@@ -1,7 +1,7 @@
 # UNLV GPA Calculator
 This was made 'cause, unlike the UNLV website, you can save your courses, calculate GPAs offline, and easily edit your courses in a simple text file.
 
-You're free to download this and start calculating your GPA!
+You're free to download this and start calculating your GPA! This is a simple program that reads from a list of classes & grades in a "grades.csv" file and outputs your GPA, total grade points, and total units/credits taken. 
 
 ## To use this program, do the following:
 ### 1. Setup
