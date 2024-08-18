@@ -7,7 +7,7 @@ easily edit your courses in a simple text file.
 */
 
 // If you need help:
-// 1. Please see this website for steps on using the program: https://github.com/theplaceincan/unlvgpacalculator
+// 1. Please see this website for steps on using the program: https://github.com/theplaceincan/unlvgpacalculator/blob/main/README.md
 // 2. Message me! :)
 
 #include <iostream>
